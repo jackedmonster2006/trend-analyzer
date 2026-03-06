@@ -7,6 +7,8 @@
 
 An interactive Business Analytics dashboard designed to track viral e-commerce products, calculate profit margins, and utilize **Generative AI** to optimize pricing strategies for dropshippers.
 
+[👉 **View the Live Dashboard Here**](https://trend-analyzer.streamlit.app/)
+
 ## 🚀 Key Features
 
 *   **Mock Data Generation Engine:** Simulates real-world viral sales curves (Daily Units Sold, Retail Price, Supplier Cost) across 4 major e-commerce categories (Beauty, Tech, Home, Fitness) to demonstrate data pipeline architecture.
