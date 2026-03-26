@@ -9,6 +9,17 @@ An interactive Business Analytics dashboard designed to track viral e-commerce p
 
 [👉 **View the Live Dashboard Here**](https://trend-analyzer.streamlit.app/)
 
+## 📸 Screenshots
+
+**Market Trends**
+![Market Trends Dashboard](screenshots/dashboard-market-trends.png)
+
+**Competitor Sourcing & Margins**
+![Competitor Pricing](screenshots/dashboard-competitor-pricing.png)
+
+**Generative AI Pricing Strategist**
+![AI Pricing Strategist](screenshots/dashboard-ai-strategist.png)
+
 ## 🚀 Key Features
 
 *   **Mock Data Generation Engine:** Simulates real-world viral sales curves (Daily Units Sold, Retail Price, Supplier Cost) across 4 major e-commerce categories (Beauty, Tech, Home, Fitness) to demonstrate data pipeline architecture.
